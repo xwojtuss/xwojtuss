@@ -35,8 +35,13 @@
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=xwojtuss&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=xwojtuss&theme=transparent&hide_border=false)
-<!-- ![](https://github-readme-stats.shion.dev/api/top-langs/?username=xwojtuss&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=xwojtuss&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="General Stats" width="48%">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=xwojtuss&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%">
+</div>
+
+<!-- <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=xwojtuss&theme=transparent&hide_border=true" alt="GitHub Streak" width="68%">
+</div> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
